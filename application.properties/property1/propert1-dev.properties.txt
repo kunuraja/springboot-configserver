@@ -1,1 +1,0 @@
-greetings=This is dev environment
