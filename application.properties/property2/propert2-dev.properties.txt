@@ -1,0 +1,1 @@
+greetings=This is property2 dev
